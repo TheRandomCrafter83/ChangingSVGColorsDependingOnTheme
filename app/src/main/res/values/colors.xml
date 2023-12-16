@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="avatar_shirt_light_mode">#015C78</color>
+    <color name="avatar_shirt_dark_mode">#80494E</color>
+</resources>
